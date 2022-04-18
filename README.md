@@ -9,7 +9,9 @@ This is a mini project for SC5010 (Introduction to Data Analysis) which focuses 
 
 ## Contributers
 @ Lim Yi Yang - involved in the neural network (self organizing maps (SOM) for time series clustering and analysis of the different diabetes trend. 
+
 @ Leong Say Hao - involved in data cleaning of the macroindicators and primary EDA analysis.
+
 @ Koh Tiang Guan Bernard - involved in Random Tree modeling and insights derivation. 
 
 ## Problem definition
