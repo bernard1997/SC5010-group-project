@@ -1,0 +1,227 @@
+﻿#,Country/territory,2015
+1,World,8.8
+2,AFR,3.2
+3,Angola,3.3
+4,Benin,0.6
+5,Botswana,4
+6,Burkina Faso,1.8
+7,Burundi,2.3
+8,Cabo Verde,1.9
+9,Cameroon,5.3
+10,Central African Republic,5.2
+11,Chad,4.5
+12,Comoros,7.5
+13,Congo,6
+15,Democratic Republic of the Congo,5.3
+16,Djibouti,7.4
+17,Equatorial Guinea,7
+18,Eritrea,3
+19,Ethiopia,2.9
+20,Gabon,6.8
+21,Gambia,1.6
+22,Ghana,1.9
+23,Guinea,1.9
+24,Guinea Bissau,1.9
+25,Kenya,2.2
+26,Lesotho,2.9
+27,Liberia,1.9
+28,Madagascar,3.3
+29,Malawi,2.7
+30,Mali,1.8
+31,Mauritania,2
+32,Mozambique,2.3
+33,Namibia,3.5
+34,Niger,1.9
+35,Nigeria,1.9
+37,Rwanda,3.5
+38,Sao Tome and Principe,1.8
+39,Senegal,1.8
+40,Seychelles,17
+41,Sierra Leone,1.8
+42,Somalia,4.4
+43,South Africa,7
+44,South Sudan,6.6
+45,Swaziland,2.8
+46,Togo,4
+47,Uganda,2.5
+48,United Republic of Tanzania,3.5
+49,Western Sahara,2.3
+50,Zambia,3.1
+51,Zimbabwe,2.9
+52,EUR,9.1
+53,Albania,12
+54,Andorra,11
+55,Armenia,7.2
+56,Austria,9.5
+57,Azerbaijan,6.3
+58,Belarus,6.5
+59,Belgium,6.7
+60,Bosnia and Herzegovina,12
+61,Bulgaria,8.4
+62,Channel Islands,5.7
+63,Croatia,6.8
+64,Cyprus,10
+65,Czech Republic,9.9
+66,Denmark,9.9
+67,Estonia,6
+68,Faroe Islands,7.4
+69,Finland,9
+70,France,7.4
+71,Georgia,7.5
+72,Germany,10
+73,Greece,7.5
+74,Hungary,9.3
+75,Iceland,7.6
+76,Ireland,5.3
+77,Israel,8.5
+78,Italy,7.9
+79,Kazakhstan,6.2
+80,Kyrgyzstan,5.2
+81,Latvia,7.3
+82,Liechtenstein,8.9
+83,Lithuania,5.5
+84,Luxembourg,5.7
+85,Malta,13
+86,Monaco,8.1
+87,Montenegro,12
+88,Netherlands,7.9
+89,Norway,7.8
+90,Poland,7.6
+91,Portugal,13
+92,Moldova,7.7
+93,Romania,10
+94,Russian Federation,11
+95,San Marino,9
+96,Serbia,13
+97,Slovakia,9.9
+98,Slovenia,10
+99,Spain,10
+100,Sweden,6.3
+101,Switzerland,7.7
+102,Tajikistan,4.5
+103,Macedonia,12
+104,Turkey,12
+105,Turkmenistan,5.2
+106,Ukraine,8
+107,United Kingdom,6.2
+108,Uzbekistan,5.2
+109,MENA,9.1
+110,Afghanistan,6.6
+111,Algeria,6.8
+112,Bahrain,15
+113,Egypt,14
+114,Iran [Islamic Republic of],8.5
+115,Iraq,7.2
+116,Jordan,9.1
+117,Kuwait,14
+118,Lebanon,12
+119,Libya,9.2
+120,Morocco,7.7
+121,Oman,9.9
+122,Pakistan,6.9
+123,Qatar,13
+124,Saudi Arabia,17
+125,State of Palestine,6.5
+126,Sudan,7.7
+127,Syrian Arab Republic,7
+128,Tunisia,9.5
+129,United Arab Emirates,14
+130,Yemen,3.8
+131,NAC,12
+132,Anguilla,14
+133,Antigua and Barbuda,13
+134,Aruba,14
+135,Bahamas,13
+136,Barbados,17
+137,Belize,14
+138,Bermuda,15
+139,British Virgin Islands,14
+140,Canada,9.5
+141,Cayman Islands,13
+142,Curaçao,16
+143,Dominica,12
+144,Grenada,10
+145,Guadeloupe,16
+146,Guyana,11
+147,Haiti,5.6
+148,Jamaica,11
+149,Martinique,17
+150,Mexico,14
+151,Montserrat,14
+152,Saint Kitts and Nevis,13
+153,Saint Lucia,10
+154,Saint Vincent and the Grenadines,11
+155,Sint Maarten [Dutch part],13
+156,Suriname,12
+157,Trinidad and Tobago,14
+158,United States of America,12
+159,United States Virgin Islands,16
+160,SACA,9.4
+161,Argentina,6.2
+162,Bolivia [Plurinational State of],6.5
+163,Brazil,10
+164,Chile,11
+165,Colombia,9.6
+166,Costa Rica,8.6
+167,Cuba,12
+168,Dominican Republic,8.1
+169,Ecuador,8.5
+170,El Salvador,8.8
+171,French Guiana,9.2
+172,Guatemala,9.1
+173,Honduras,7.4
+174,Nicaragua,7.7
+175,Panama,9.4
+176,Paraguay,8.4
+177,Peru,6.4
+178,Puerto Rico,14
+179,Uruguay,6.9
+180,Venezuela [Bolivarian Republic of],11
+181,SEA,8.5
+182,Bangladesh,7.4
+183,Bhutan,7.9
+184,India,8.7
+185,Maldives,7.5
+186,Mauritius,24
+187,Nepal,3.3
+188,Sri Lanka,8.5
+189,WP,9.3
+190,Australia,6.3
+191,Brunei Darussalam,12
+192,Cambodia,2.6
+193,China,10
+194,"China, Hong Kong SAR",10
+195,"China, Macao SAR",8.5
+196,Cook Islands,21
+197,Dem. People's Republic of Korea,4.7
+198,Fiji,13
+199,French Polynesia,19
+200,Guam,19
+201,Indonesia,6.2
+202,Japan,7.6
+203,Kiribati,16
+204,Lao People's Democratic Republic,2.9
+205,Malaysia,16
+206,Marshall Islands,21
+207,Micronesia [Fed. States of],13
+208,Mongolia,5.1
+209,Myanmar,6.5
+210,Nauru,23
+211,New Caledonia,20
+212,New Zealand,9.1
+213,Niue,14
+214,Palau,20
+215,Papua New Guinea,12
+216,Philippines,6.1
+217,Republic of Korea,8.7
+218,Samoa,7.2
+219,Singapore,12
+220,Solomon Islands,13
+221,Taiwan,10
+222,Thailand,8
+223,Timor-Leste,6.3
+224,Tokelau,29
+225,Tonga,12
+226,Tuvalu,17
+227,Vanuatu,14
+228,Viet Nam,5.6
