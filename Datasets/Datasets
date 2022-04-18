@@ -1,8 +1,10 @@
 The following datasets are used for the various notebooks and their respective dataframes are created to link between notebooks: 
 
-* TIMESERIES ANALYSIS AND CLUSTERING 
-1) IDF % 2000_2011_2021
-2) IDF % 2015
-3) worldbank 2010_2019
-4) worldbank 2017
-5) 
+-------TIMESERIES ANALYSIS AND CLUSTERING---------
+1) IDF % 2000_2011_2021.csv
+2) IDF % 2015.csv
+3) worldbank 2010_2019.csv
+4) worldbank 2017.csv
+
+Created dataframe from this notebook
+1) final_df_time_series.csv
