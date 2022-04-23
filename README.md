@@ -47,7 +47,7 @@ This is a mini project for SC5010 (Introduction to Data Analysis) which focuses 
     9) Gross national savings (Percent of GDP)
     10) Education Index
 * After extracting the macroindicators, we did an EDA analysis. We found that some of the macroindicators such as GDP per capita and education index could be important features to predict the diabetes trend in a country due to dissimilar boxplots observed among the different diabetes clusters. Hence, we narrowed down our hypothesis and hypothesized that these indicators are crucial to predict the diabetes trend in a country. 
-* Subsequently, we optimized the parameters for our Random Forest model (depth = 9, no. of estimators = 500) and determined the feature importance of the chosen macroindicators. 
+* Subsequently, using GridSearchCV package from skLearn, we found the best hyperparameters for our Random Forest model from our training dataset (depth = 9, no. of estimators = 500) and determined the feature importance of the chosen macroindicators. 
 
 ## Conclusions
 * There were varying levels of diabetes around the world and we were able to cluster the different trends into 6 unique clusters. Countries in Africa had the lowest diabetes prevelance and experienced the lowest increase in diabetes prevelance. 
