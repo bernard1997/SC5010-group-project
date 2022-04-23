@@ -24,6 +24,12 @@ This is a mini project for SC5010 (Introduction to Data Analysis) which focuses 
 
 ## Description of the various notebooks
 ### Timeseries analysis and clustering
+* From the time series dataframe, we used diabetes prevalence rate in 2010,2011,2015,2017,2019,2021 as an input into the Minisom algorithm 
+* MiniSom reduces the dimensionality of the input data into a 2D graph. Next, the algorithm clusters the trend of the diabetes prevalence rate.  
+* From each cluster, the mean distance between the inputs was output as a 'red' line trend in the 2D graphs. 
+* The countries' diabetes prevalence trend was clustered based on the shortest Euclidean distance from its closest nodes 
+* For the hyper-parameters, we used a learning rate = 0.1, sigma = 0.3 and number of clusters = 6 as hyperparameters in the algorithm, followed by random weight initialisation and 50 000 training iterations
+
 ### Data cleaning for the macroindicators
 ### Random Forest Modelling
 * The macroindicators files that were cleaned in the previous notebook "Data cleaning for the macroindicators" were merged with the cluster file obtained after SOM was used to cluster the different diabetes trend among the countries 
