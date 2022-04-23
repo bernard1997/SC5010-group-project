@@ -35,7 +35,17 @@ This is a mini project for SC5010 (Introduction to Data Analysis) which focuses 
 
 ### Random Forest Modelling
 * The macroindicators files that were cleaned in the previous notebook "Data cleaning for the macroindicators" were merged with the cluster file obtained after SOM was used to cluster the different diabetes trend among the countries 
-* As some of the macroindicators were expressed in different formats (eg. expressed as percentage of GDP/ expressed as current currency), we choose one format to represent that particular macroindicator. 
+* As some of the macroindicators were expressed in different formats (eg. expressed as percentage of GDP/ expressed as current currency), we choose one format to represent that particular macroindicator. The list of macroindicators used were the following: 
+    1) Current account balance (Percent of GDP)
+    2) General government net lending/borrowing (Percent of GDP)
+    3) General government revenue (Percent of GDP)
+    4) General government total expenditure (Percent of GDP)
+    5) Gross domestic product per capita, current prices (U.S. dollars)
+    6) Inflation, average consumer prices (Percent change)
+    7) Population (Persons)
+    8) Total investment (Percent of GDP)
+    9) Gross national savings (Percent of GDP)
+    10) Education Index
 * After extracting the macroindicators, we did an EDA analysis. We found that some of the macroindicators such as GDP per capita and education index could be important features to predict the diabetes trend in a country due to dissimilar boxplots observed among the different diabetes clusters. Hence, we narrowed down our hypothesis and hypothesized that these indicators are crucial to predict the diabetes trend in a country. 
 * Subsequently, we optimized the parameters for our Random Forest model (depth = 9, no. of estimators = 500) and determined the feature importance of the chosen macroindicators. 
 
