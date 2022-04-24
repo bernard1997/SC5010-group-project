@@ -53,7 +53,7 @@ This is a mini project for SC5010 (Introduction to Data Analysis) which focuses 
 ## Conclusions
 * There were varying levels of diabetes around the world and we were able to cluster the different trends into 6 unique clusters. Countries in Africa had the lowest diabetes prevelance and experienced the lowest increase in diabetes prevelance. 
 * Although HDI was a important macroindicator to classify the diabetes trends, we realised that it was a composite index made up of education index, GDP per capita, and life expectancy. 
-* Better classfication accuracy obtained when we HDI index was broken down to its components. Howver, life expectancy was not included in our model nor in our test dataset as we realised that life expectancy was negatively affected by diabetes rather than the other way around. 
+* Better classfication accuracy obtained when we HDI index was broken down to its components. However, life expectancy was not included in our model nor in our test dataset as we realised that life expectancy was negatively affected by diabetes rather than the other way around. 
 * At the end, GDP per capita, education index, and current account balance were the top 3 macroindicators that can be used to determine which diabetes trend countries belong to. 
 * Our model also proved to be quite accurate in determining the different diabetes clusters (classification accuracy = 0.652), albeit some misclassification between cluster 3 and 5. 
 
