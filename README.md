@@ -32,6 +32,7 @@ This is a mini project for SC5010 (Introduction to Data Analysis) which focuses 
 * For the hyper-parameters, we used a learning rate = 0.1, sigma = 0.3 and number of clusters = 6 as hyperparameters in the algorithm, followed by random weight initialisation and 50 000 training iterations
 
 ### Data cleaning for the macroindicators
+* The average value from the list seen in the original macroindicator files were calculated from 2010 - 2021.
 
 ### Random Forest Modelling
 * The macroindicators files that were cleaned in the previous notebook "Data cleaning for the macroindicators" were merged with the cluster file obtained after SOM was used to cluster the different diabetes trend among the countries 
